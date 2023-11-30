@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background-color:black;
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns: 80px 850px 1fr;
+}
+.logo img{
+    float: left;
+    height:60px;
+
+}
+.leftheader{
+    margin-top: 18px;
+    float: left;
+}
+.rightheader{
+    margin-top: 18px;
+    float: left;
+}
+.header button{
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+    background-color: black;
+    color: white;
+}
+.leftheader select{
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+    background-color: black;
+    color: white;
+}
+.rightheader select{
+    height: 30px;
+    border-radius: 20px;
+    border: 0;
+}
+

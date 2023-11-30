@@ -1,0 +1,216 @@
+.cont1{
+    background-image: url(image1.webp);
+    background-repeat: no-repeat;
+    height: 590px;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.card{
+    background-color: white;
+    border-color: black;
+    height: 510px;
+    width: 575px;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    padding-top: 30px;
+    line-height: 1;
+}
+.grid2{
+    padding-left: 50px;
+
+}
+.grid2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 52px;
+}
+.grid3{
+    padding-left: 50px;
+}
+.g1{
+    background-color:#F6F6F6;
+    width: 470px;
+    padding-left: 15px;
+}
+.g1 input{
+    height: 40px;
+    width: 425px;
+    background-color:#F6F6F6;
+    border: 0;
+}
+
+.g2{
+    background-color:#F6F6F6;
+    width: 470px;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.g2 input{
+    height: 40px;
+    width: 425px;
+    background-color:#F6F6F6;
+    border: 0;
+}
+.grid4{
+    padding-left: 50px;
+    padding-top: 40px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+}
+.request button{
+    height: 40px;
+    width: 135px;
+    border-radius:10px;
+    margin-top: 15px;
+    color: white;
+    background-color: black;
+    border: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Schedule button{
+    height: 40px;
+    width: 150px;
+    border-radius:10px;
+    margin-top: 15px;
+    color:black;
+    background-color: rgb(223, 208, 208);
+    border: 0;
+    font-size: 15px;
+    font-weight: 500;
+}
+.cont2{
+    height: 260px;
+    background-image: url(image\(2\).webp);
+    position: relative;
+    background-position: right;
+    background-size: cover;
+    padding-left: 100px;
+    padding-top: 40px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+.cont2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    word-spacing: 5px;
+
+}
+.cont2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+.cont2 button{
+    height: 50px;
+    width: 135px;
+    border-radius:10px;
+    margin-top: 15px;
+    color: white;
+    background-color: black;
+    border: 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+.cont3{
+    padding-left: 100px;
+}
+.cont3 h1{
+    padding-top: 70px;
+    background-color: white;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.container a{
+    color: gray;
+}
+.cont4{
+    padding-left: 100px;
+    padding-top: 150px;
+    display: grid;
+    grid-template-columns: 400px 400px 1fr;
+    height: 320px;
+}
+.info1 a{
+    margin-top: 5px;
+    color: black;
+}
+.info2 a{
+    margin-top: 5px;
+    color: black;
+}
+.info3 a{
+    margin-top: 5px;
+    color: black;
+}
+.cont5{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.cont5 h1{
+    margin-bottom: 50px;
+}
+.uber{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+}
+.transport{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    margin-bottom: 80px;
+}
+.cont6{
+    height: 406px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    background-color: rgb(240, 240, 240);
+}
+.cont6 h1{
+    margin-bottom: 40px;
+}
+.scan{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 200px;
+}
+.uberapp{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    margin-right: 30px;
+    background-color: white;
+}
+.QR{
+    text-align: center;
+    margin-top: 25px;
+}
+.info{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+.cont7{
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-right: 100px;
+    height: 213px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.drive{
+    margin-right: 25px;
+}
+.signup{
+    display: grid;
+    grid-template-columns: 400px 1fr;
+}
+
+    

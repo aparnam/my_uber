@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 1349px;
+}
+.header{
+    background-color:blanchedalmond;
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns: 80px 900px 1fr;
+}
+.logo img{
+    float: left;
+    height:60px;
+
+}
+.leftheader{
+    margin-top: 18px;
+float: left;
+}
+.login{
+    float: left;
+}
+.header button
+{
+    height: 40px;
+    border-radius: 18px;
+    color: white;
+    background-color: black;
+    border: 0;
+}
+.header select{
+    height: 40px;
+    color:white;
+    background-color: black;
+}

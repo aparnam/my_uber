@@ -1,0 +1,59 @@
+.footer{
+    padding-left: 100px;
+    padding-top: 80px;
+    background-color: black;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+.footer h1{
+    margin-bottom: 40px;
+}
+.table{
+   padding-top: 10px;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   margin-top: 40px;
+   margin-bottom: 50px;
+}
+.title{
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+.table a{
+    text-decoration: none;
+    color: white;
+}
+.contct{
+    padding-right: 100px;
+    padding-top: 300px;
+}
+.socialmedia{
+    display: grid;
+    grid-template-columns: 1000px 1fr;
+}
+.socialmedia button{
+    background-color:black;
+    color: white;
+    border: 0;
+    text-align: center;
+}
+.icon{
+    margin-left: 60px;
+}
+.location button{
+    height: 30px;
+    width: 80px;
+    border-radius: 4px;
+}
+.download{
+    margin-top: 60px;
+}
+.download img{
+    height: 40px;
+}
+
+
+
+
